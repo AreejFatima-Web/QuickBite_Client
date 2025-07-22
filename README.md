@@ -49,4 +49,3 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 =======
 # QuickBite_Client
 Front-end of FYP 
->>>>>>> 055ca7110dff9a2e70cbfab5ec69d6b0e82bbd92
